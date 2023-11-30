@@ -32,10 +32,10 @@ export const andamioConfig: AndamioConfig<CourseManagementConfig> = {
     courseManagementTokens: courseManagementTokens,
     coursemanagementNftArtwork: {
       // move to a file?
-      learnerNFTURL: "https://www.andamio.io/andamio.png",
+      learnerNFTURL: "ipfs://bafkreidqvxwum45zykyxnkcngdpasvcjwsawmevurd2yzrlziiaukhjdje",
       courseModuleNFTURL: "https://www.andamio.io/andamio.png",
-      courseCreatorNFTURL: "https://www.andamio.io/andamio.png",
-      courseDeciderNFTURL: "https://www.andamio.io/andamio.png",
+      courseCreatorNFTURL: "ipfs://bafkreidly4pye2wiklnxohb76bxeewde3xa66mwms5a7saienzzcccx3wi",
+      courseDeciderNFTURL: "ipfs://bafkreiasvwd3fcmrqpc5mmjhci2rmjg5hptgs46nf7xmmmhv7oz66xkfmu",
     },
   },
 };
